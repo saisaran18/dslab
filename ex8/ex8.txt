@@ -1,0 +1,12 @@
+Enter the number of vertices:2
+Enter the cost adjacency matrix(enter 999 for no direct path):
+45
+12
+15
+78
+Enter the source vertex(starting from 0):2
+
+Shortest paths from source vertex 2:
+path to vertex 0:Unreachable
+path to vertex 1:Unreachable
+

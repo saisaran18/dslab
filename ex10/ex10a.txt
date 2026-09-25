@@ -1,0 +1,16 @@
+--Linear Search--
+Enter the element to search:2
+element 2 not found in the array.
+ifet@ifet-System-Product-Name:~/Desktop/daslab_421125106090/ex10$ ./a.out
+
+--Linear Search--
+Enter the element to search:9
+Element 9 found at position 7(index 6).
+ifet@ifet-System-Product-Name:~/Desktop/daslab_421125106090/ex10$ ./a.out
+
+--Linear Search--
+Enter the element to search:45
+Element 45 found at position 2(index 1).
+ifet@ifet-System-Product-Name:~/Desktop/daslab_421125106090/ex10$ 
+
+
